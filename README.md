@@ -92,7 +92,7 @@ A 12 week intensive web development bootcamp focusing on:
 **21st Century Leaders Foundation** (Sep '10 - October '11)   
 *Project Manager*
 
-## Interestes
+## Interests
 
 **Musician:**
 I've played guitar in various bands since the tender age of 14.  Although my plans to make millions from punk rock haven't panned out (yet), I did once play on the same bill as turn of the millenium garage  sensation Ms Dynamite.
