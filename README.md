@@ -84,16 +84,20 @@ A 12-week intensive web development bootcamp focusing on:
 *Classroom Teacher* 
 - Worked as a member of a diverse team of teaching staff, planning and delivering creative, tailored lessons to children with a range of learning styles and needs.
 - Managed support staff.
+
 **Bygrove Primary School** (Sep '13 - Aug '14)   
 *Schools Direct Trainee Teacher*
 - Worked alongside a classroom teacher to plan and deliver lessons.
+
 **Prendergast Vale College** (October '11 - Aug '13)   
 *Teaching Assistant*
 - Supported the learning of children with a diverse range of needs.
+
 **21st Century Leaders Foundation** (Sep '10 - October '11)   
 *Project Manager*
 - Acted as the first point of contact for international partners and clients of a charitable licensing campaign.
 - Worked to tight deadlines across time zones.
+
 ## Interests
 
 **Musician:**
