@@ -8,7 +8,7 @@ I’m an ambitious and conscientious **Full Stack Junior Developer**, seeking a 
 
 Following time spent living in Japan and a stint working for a charity, where I was able to develop strong project management, communication and organisational skills, I have spent the past five years in the education sector, qualifying as a key stage 1 and 2 primary teacher in 2014. It was in this role that I became interested in code. Initially to support my students in their first steps in programming, and then as an enthusiastic amateur coder myself.
 
-I have spent the past three months at Makers Academy, an intensive 12 week software development bootcamp, which has allowed me to grow into confident junior developer.  The experience has fed my passion for writing clean, reusable and rigorously tested code, and engrained in me the importance of following coding best practices.  I am now looking to work in an environment where I can continue building upon what I have learned.
+I have spent the past three months at Makers Academy, an intensive 12-week software development bootcamp, which has allowed me to grow into confident junior developer.  The experience has fed my passion for writing clean, reusable and rigorously tested code, and engrained in me the importance of following coding best practices.  I am now looking to work in an environment where I can continue building upon what I have learned.
 
 ## Projects
 
@@ -18,8 +18,8 @@ Project | Description | Demo Link | Technologies Used | Testing Technologies | B
 --- | --- | --- | --- | --- | ---
 [Chitter](https://github.com/samjones1001/chitter-challenge) | Lightweight Twitter clone | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://chitter-chal.herokuapp.com/peeps) | Ruby, Sinatra, Postgres /w DataMapper, HTML5(ERB), CSS | RSpec, Capybara | 2 days 
 [MakersBnB](https://github.com/samjones1001/makersbnb) | Clone of AirBnB | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://makersbestbnb.herokuapp.com/) | Ruby, Sinatra, Postgres /w DataMapper, JavaScript, jQuery, HTML5(ERB), Bootstrap CSS | RSpec, Capybara | 5 days
-[PhotoShack](https://github.com/samjones1001/instagram-challenge) | A simple instagram clone built on Rails | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://samsinstaclone.herokuapp.com/) | Ruby, Rails, Postgres /w DataMapper, JavaScript, jQuery, OmniAuth, HTML5(ERB), CSS | RSpec, Capybara | 2 days
-[NotMyNews](https://github.com/samjones1001/NotMyNews) | A newsfeed app designed to present users with stories from outlets with political views which differ from their own | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](http://notmynews.herokuapp.com/) | Ruby, Rails, Postgres /w DataMapper, JavaScript, jQuery, HTML5(HAML), Bootstrap CSS | RSpec, Capybara | 4 days
+[PhotoShack](https://github.com/samjones1001/instagram-challenge) | A simple Instagram clone built on Rails | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://samsinstaclone.herokuapp.com/) | Ruby, Rails, Postgres /w DataMapper, JavaScript, jQuery, OmniAuth, HTML5(ERB), CSS | RSpec, Capybara | 2 days
+[NotMyNews](https://github.com/samjones1001/NotMyNews) | A news feed app designed to present users with stories from outlets with political views which differ from their own | [![heroku-48](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](http://notmynews.herokuapp.com/) | Ruby, Rails, Postgres /w DataMapper, JavaScript, jQuery, HTML5(HAML), Bootstrap CSS | RSpec, Capybara | 4 days
 
 ## Skills
 
@@ -34,7 +34,7 @@ As a student I spent a year living and studying at a university in Tokyo.  On ar
 As a student at Makers Academy, I underwent a similarly accelerated learning process, gaining a good working understanding of a range of languages and frameworks. 
 
 #### Inquisitive
-Whether undergoing twelve weeks of intensive study at Makers Academy, travelling to a new country or trying out a new musical instrument, I have always loved learning of any kind.  This passion for aquiring and sharing knowledge is what initially attracted me to teaching and, when it was introduced onto the national curriculum, to start exploring coding for the first time.  I  constantly strive to expand the horizons of my knowledge and ability, and love wrestling with complex new problems.
+Whether undergoing twelve weeks of intensive study at Makers Academy, travelling to a new country or trying out a new musical instrument, I have always loved learning of any kind.  This passion for acquiring and sharing knowledge is what initially attracted me to teaching and, when it was introduced onto the national curriculum, to start exploring coding for the first time.  I  constantly strive to expand the horizons of my knowledge and ability, and love wrestling with complex new problems.
 
 I am registered as a coach with [codebar](https://codebar.io), a not for profit organisation which organises regular workshops for beginner coders - both to consolidate my own understanding of what I have learned, and to share my knowledge with others.
 
@@ -53,7 +53,7 @@ Foreign languages : Intermediate spoke and written Japanese
 ## Education
 
 #### Makers Academy (Jan '17 - Mar '17)
-A 12 week intensive web development bootcamp focusing on:
+A 12-week intensive web development bootcamp focusing on:
 - Test driven and behaviour driven development
 - Agile methodologies
 - Pair programming
@@ -95,7 +95,7 @@ A 12 week intensive web development bootcamp focusing on:
 ## Interests
 
 **Musician:**
-I've played guitar in various bands since the tender age of 14.  Although my plans to make millions from punk rock haven't panned out (yet), I did once play on the same bill as turn of the millenium garage  sensation Ms Dynamite.
+I've played guitar in various bands since the tender age of 14.  Although my plans to make millions from punk rock haven't panned out (yet), I did once play on the same bill as turn of the millennium garage  sensation Ms Dynamite.
 
 **Traveller:**
 Exploring the world and experiencing other cultures is my passion and I'm constantly planning my next adventure.
