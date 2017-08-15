@@ -4,11 +4,9 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Blog](https://medium.com/@sam.jones494)
 
-I’m an ambitious and conscientious **Full Stack Junior Developer**, seeking a London-based role where I can consolidate and extend my existing knowledge.
+Ambitious and conscientious Full Stack Junior Developer, seeking a London-based role where I can consolidate and extend my existing knowledge.
 
-Following a stint working for a charity, where I was able to develop strong project management, communication and organisational skills, I have spent the past five years in the education sector, qualifying as a key stage 1 and 2 primary teacher in 2014. It was in this role that I became interested in code. Initially to support my students in their first steps in programming, and then as an enthusiastic amateur coder myself.
-
-I have spent the past three months at Makers Academy, an intensive 12-week software development bootcamp.  The experience has fed my passion for writing clean, reusable and rigorously tested code, and engrained in me the importance of following coding best practices.  I am now looking to work in an environment where I can work on genuine, challenging problems and continue building upon what I have learned.
+Having graduated from Makers Academy - a highly-selective, intense 12-week software development bootcamp - earlier in the year, I am currently employed in my first development position at HSBC.  I’m passionate about continuing to improve upon the skills I’ve developed in this role and and at Makers; writing clean, reusable and rigorously tested code, getting hands on experience with new technologies, and building awesome things. I’m looking for my next position in an environment where I can keep working on genuine, challenging problems and ramp my learning up to the next level.
 
 ## Projects
 
@@ -50,35 +48,13 @@ I completed the Makers Academy curriculum as part of a remote cohort, communicat
 Methodologies : Agile, XP, Test Driven Development
 Foreign languages : Intermediate spoke and written Japanese 
 
-## Education
-
-#### Makers Academy (Jan '17 - Mar '17)
-A 12-week intensive web development bootcamp focusing on:
-- Test driven and behaviour driven development
-- Agile methodologies
-- Pair programming
-- SOLID object-oriented design
-- XP values
-
-#### SOAS (Sep '09 - Sep '10)
-
-- MA Japanese Studies (Merit)
-
-#### Musashi University, Tokyo (Sep '07 - Aug '08)
-
-- East Asian Studies Programme
-
-#### University of Kent (Sep '05 - Jul '09)
-
-- BA(Hons) Politics and International Relations with a Year in Japan (2:1)
-- Included modules in quantitative data analysis
-
-#### Other qualifications
-- PGCE (Primary)
-- Japanese Language Proficiency Test L3
-
-
 ## Experience
+
+**HSBC** (Apr '17 - Present)
+*Junior Software Engineer*
+- Working as part of a small, agile team within HSBC’s Operations Division to deliver high-quality software solutions for use throughout the organisation.
+- Utilizing and rapidly developing skills in object oriented programming,  and technologies including Java and Angular 4.
+- Collaborating closely with business managers to ensure that the project is clearly understood, and to help translate targets and requirements into lean, efficient technical solutions. 
 
 **Stebon Primary School** (Sep '14 - Dec '16)   
 *Classroom Teacher* 
@@ -97,6 +73,34 @@ A 12-week intensive web development bootcamp focusing on:
 *Project Manager*
 - Acted as the first point of contact for international partners and clients of a charitable licensing campaign.
 - Worked to tight deadlines across time zones.
+
+## Education
+
+#### Makers Academy (Jan '17 - Mar '17)
+A 12-week intensive web development bootcamp focusing on:
+- Test driven and behaviour driven development
+- Agile methodologies
+- SOLID object-oriented design
+- Pair programming
+- Ruby, JavaScript, HTML & CSS, SQL & Relational Databases
+- XP values
+
+#### SOAS (Sep '09 - Sep '10)
+
+- MA Japanese Studies (Merit)
+
+#### Musashi University, Tokyo (Sep '07 - Aug '08)
+
+- East Asian Studies Programme
+
+#### University of Kent (Sep '05 - Jul '09)
+
+- BA(Hons) Politics and International Relations with a Year in Japan (2:1)
+- Included modules in quantitative data analysis
+
+#### Other qualifications
+- PGCE (Primary)
+- Japanese Language Proficiency Test L3
 
 ## Interests
 
