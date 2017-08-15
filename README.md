@@ -46,7 +46,7 @@ I completed the Makers Academy curriculum as part of a remote cohort, communicat
 
 #### Additional skills
 Methodologies : Agile, XP, Test Driven Development
-Foreign languages : Intermediate spoke and written Japanese 
+Foreign languages : Intermediate spoken and written Japanese 
 
 ## Experience
 
